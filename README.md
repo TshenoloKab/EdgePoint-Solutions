@@ -8,7 +8,7 @@ Empowering businesses with cutting-edge technology. One of my Portfolio Projects
   
 ## 🚀 Live Demo
 Check out the live site here:  
-👉 [EdgePoint Solutions Live](https://github.com/TshenoloKab/EdgePoint-Solutions.git/)
+👉 [EdgePoint Solutions Live](https://tshenolokab.github.io/EdgePoint-Solutions/)
 
 
 ## ✨ Features
